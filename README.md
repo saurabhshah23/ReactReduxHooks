@@ -1,14 +1,20 @@
-03apr20: Airline app of React+Redux+Router+Bootstrap
-TECH STACK:
-"npx create-react-app" React JS project developed using only Hooks (no class based components)
-"redux", "react-redux", "redux-thunk" (redux only by "useDispatch" & "useSelector". "mapStateToProps", "mapDispatchToProps" and connect HOC is not used )
-"axios" - for API HTTPS calls
-"react-bootstrap"
-"node-sass" - SASS
-"holderjs" - for image placeholders
-"react-router-dom"
+## 03apr20:
 
-Purpose: Airline search app for ThoughtWorks company as an assignment.
+Airline app of React+Redux+Router+Bootstrap
+
+## TECH STACK:
+
+- "npx create-react-app" React JS project developed using only Hooks (no class based components)
+- "redux", "react-redux", "redux-thunk" (redux only by "useDispatch" & "useSelector". "mapStateToProps", "mapDispatchToProps" and connect HOC is not used )
+- "axios" - for API HTTPS calls
+- "react-bootstrap"
+- "node-sass" - SASS
+- "holderjs" - for image placeholders
+- "react-router-dom"
+
+## Purpose:
+
+Airline search app for ThoughtWorks company as an assignment.
 
 ===================================
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
