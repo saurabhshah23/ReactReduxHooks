@@ -1,0 +1,36 @@
+{
+  "name": "thoughtworks",
+  "version": "0.0.0",
+  "description": null,
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.19.2",
+    "bootstrap": "4.4.1",
+    "holderjs": "2.9.6",
+    "node-sass": "4.13.1",
+    "react": "latest",
+    "react-bootstrap": "1.0.0",
+    "react-dom": "latest",
+    "react-redux": "7.2.0",
+    "react-router-dom": "latest",
+    "react-scripts": "2.0.0",
+    "redux": "4.0.5",
+    "redux-thunk": "2.3.0"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

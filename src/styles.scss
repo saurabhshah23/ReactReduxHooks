@@ -1,0 +1,21 @@
+p{
+  margin: 0
+}
+
+
+.search-wrapper{
+  border-right: 1px solid;
+}
+
+.layover-wrapper {
+  display: flex;
+  justify-content: center;
+  height: 15px;
+  border-bottom: 1px dotted darkgray;
+}
+.layover-text {
+  background: #fff;
+  height: 28px;
+  padding: 0 12px;
+  border: 1px dotted darkgray;
+}
